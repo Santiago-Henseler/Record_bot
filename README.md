@@ -1,5 +1,5 @@
-# Meet_record_bot
-Boot para grabar reuniones de google meet
+# Record_bot
+Boot para grabar reuniones de google meet y Discord
 
 # Setup
 
